@@ -1,2 +1,4 @@
 # example_papka
-asdasdasdsad
+Как пользоваться скриптом?
+
+Вот так!
